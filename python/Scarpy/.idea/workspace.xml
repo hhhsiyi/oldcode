@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82aa4b39-7c8b-4e57-83af-d0bc0025cd53" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YpOx4wYk4hc22pwk21YcvaRaur" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\python\Scarpy\travel2\static\js" />
+      <recent name="D:\code\python\Scarpy\travel2\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python\Scarpy" />
+      <recent name="D:\code\python\Scarpy\venv\Scripts" />
+      <recent name="D:\code\python\Scarpy\test2\test2\spiders" />
+      <recent name="D:\code\python\Scarpy\travel2\static\js" />
+      <recent name="D:\code\python\Scarpy\travel2\static\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="1(3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1(3).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mafengwo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/travel2/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/travel2/spiders/mafengwo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/travel2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/travel2/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_mongoDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/travel2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/travel2/run_mongoDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmp3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.run_mongoDB" />
+        <item itemvalue="Python.mafengwo" />
+        <item itemvalue="Python.1(3)" />
+        <item itemvalue="Python.tmp3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82aa4b39-7c8b-4e57-83af-d0bc0025cd53" name="Default Changelist" comment="" />
+      <created>1583636312776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583636312776</updated>
+      <workItem from="1583636314116" duration="7320000" />
+      <workItem from="1583645745338" duration="16907000" />
+      <workItem from="1583720646050" duration="7643000" />
+      <workItem from="1583743568401" duration="7520000" />
+      <workItem from="1583809585269" duration="21653000" />
+      <workItem from="1583888975323" duration="3814000" />
+      <workItem from="1583914934997" duration="7367000" />
+      <workItem from="1584442481771" duration="218000" />
+      <workItem from="1584691810395" duration="21757000" />
+      <workItem from="1584932615461" duration="17088000" />
+      <workItem from="1585060107108" duration="18598000" />
+      <workItem from="1585144090319" duration="1208000" />
+      <workItem from="1585196495905" duration="7940000" />
+      <workItem from="1586263074541" duration="5867000" />
+      <workItem from="1586599891801" duration="22657000" />
+      <workItem from="1586784960281" duration="11567000" />
+      <workItem from="1586945333589" duration="1462000" />
+      <workItem from="1587205221630" duration="2711000" />
+      <workItem from="1587464968271" duration="16087000" />
+      <workItem from="1587869496663" duration="2135000" />
+      <workItem from="1587958969671" duration="6247000" />
+      <workItem from="1588301566820" duration="3049000" />
+      <workItem from="1589422908117" duration="73000" />
+      <workItem from="1589512656934" duration="853000" />
+      <workItem from="1589608769071" duration="147000" />
+      <workItem from="1589608931983" duration="379000" />
+      <workItem from="1589609327317" duration="159000" />
+      <workItem from="1589616670888" duration="35000" />
+      <workItem from="1589617081791" duration="174000" />
+      <workItem from="1589617270566" duration="133000" />
+      <workItem from="1589630998569" duration="2245000" />
+      <workItem from="1589770971581" duration="1395000" />
+      <workItem from="1590762723476" duration="1100000" />
+      <workItem from="1590766015693" duration="627000" />
+      <workItem from="1591780738390" duration="47000" />
+      <workItem from="1591781002695" duration="40000" />
+      <workItem from="1597980066780" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="251" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586832721153">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="395" y="251" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.874@0.0.1463.874" timestamp="1586832721153" />
+    <state x="228" y="265" key="FileChooserDialogImpl" timestamp="1589617143150">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="228" y="265" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1589617143150" />
+    <state width="1365" height="192" key="GridCell.Tab.0.bottom" timestamp="1590801875228">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1365" height="192" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1590801875228" />
+    <state width="1365" height="192" key="GridCell.Tab.0.center" timestamp="1590801875228">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1365" height="192" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1590801875228" />
+    <state width="1365" height="192" key="GridCell.Tab.0.left" timestamp="1590801875228">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1365" height="192" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1590801875228" />
+    <state width="1365" height="192" key="GridCell.Tab.0.right" timestamp="1590801875228">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1365" height="192" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1590801875228" />
+    <state width="1258" height="257" key="GridCell.Tab.1.bottom" timestamp="1586857188297">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1258" height="257" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1586857188297" />
+    <state width="1258" height="257" key="GridCell.Tab.1.center" timestamp="1586857188297">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1258" height="257" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1586857188297" />
+    <state width="1258" height="257" key="GridCell.Tab.1.left" timestamp="1586857188297">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1258" height="257" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1586857188297" />
+    <state width="1258" height="257" key="GridCell.Tab.1.right" timestamp="1586857188297">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1258" height="257" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1586857188297" />
+    <state x="237" y="91" key="SettingsEditor" timestamp="1591781027751">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="237" y="91" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1591781027751" />
+    <state x="426" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1589616673007">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="426" y="266" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1589616673007" />
+    <state x="419" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1586787424918">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="419" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1586787424918" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Lib/site-packages/scrapy/http/request/__init__.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Scrapy$douban.coverage" NAME="douban Coverage Results" MODIFIED="1583659842264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_movie/douban_movie/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1584958366755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel" />
+    <SUITE FILE_PATH="coverage/Scrapy$run_mongoDB.coverage" NAME="run_mongoDB Coverage Results" MODIFIED="1590766412646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel2" />
+    <SUITE FILE_PATH="coverage/Scrapy$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1583736811622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyqt" />
+    <SUITE FILE_PATH="coverage/Scrapy$Unittests_in_test1.coverage" NAME="Unittests in test1 Coverage Results" MODIFIED="1583639507641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/test1" />
+    <SUITE FILE_PATH="coverage/Scrapy$mafengwo__2_.coverage" NAME="mafengwo (2) Coverage Results" MODIFIED="1585060174670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel2/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1586771748551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smalltest" />
+    <SUITE FILE_PATH="coverage/Scrapy$run_mongoDB__1_.coverage" NAME="run_mongoDB (1) Coverage Results" MODIFIED="1586784989883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel2" />
+    <SUITE FILE_PATH="coverage/Scrapy$tmp2.coverage" NAME="tmp2 Coverage Results" MODIFIED="1586788698864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scrapy$main.coverage" NAME="main Coverage Results" MODIFIED="1590766417869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel2" />
+    <SUITE FILE_PATH="coverage/Scrapy$xicidaili.coverage" NAME="xicidaili Coverage Results" MODIFIED="1583637998709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/test1/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1586835521656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scrapy$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1586680309246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel2" />
+    <SUITE FILE_PATH="coverage/Scrapy$settings.coverage" NAME="settings Coverage Results" MODIFIED="1583639499724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/test1" />
+    <SUITE FILE_PATH="coverage/Scrapy$run.coverage" NAME="run Coverage Results" MODIFIED="1585143784878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel2" />
+    <SUITE FILE_PATH="coverage/Scrapy$maoyan.coverage" NAME="maoyan Coverage Results" MODIFIED="1586677410495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maoyan" />
+    <SUITE FILE_PATH="coverage/Scrapy$mafengwo.coverage" NAME="mafengwo Coverage Results" MODIFIED="1587821992661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel2/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1584799957305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smalltest" />
+    <SUITE FILE_PATH="coverage/Scrapy$test.coverage" NAME="test Coverage Results" MODIFIED="1586771686836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scrapy$tb.coverage" NAME="tb Coverage Results" MODIFIED="1584850749867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tieba/tieba/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy$mafengwo__1_.coverage" NAME="mafengwo (1) Coverage Results" MODIFIED="1586771775572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test2/test2/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy$yg.coverage" NAME="yg Coverage Results" MODIFIED="1583832947057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yangguang/yangguang/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy$1_3_.coverage" NAME="1(3) Coverage Results" MODIFIED="1586945709355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scrapy$mongodb.coverage" NAME="mongodb Coverage Results" MODIFIED="1585118662485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/travel2/db" />
+    <SUITE FILE_PATH="coverage/Scrapy$tmp3.coverage" NAME="tmp3 Coverage Results" MODIFIED="1586843999127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

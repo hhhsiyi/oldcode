@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="264d79ce-55af-4b86-8344-20f9ae134ece" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pyqt$test.coverage" NAME="test Coverage Results" MODIFIED="1578318797337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WeIaOsVwuhNCNIqzx0kWoZHG31" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test2">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyqt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyqt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyqt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="264d79ce-55af-4b86-8344-20f9ae134ece" name="Default Changelist" comment="" />
+      <created>1577291674051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577291674051</updated>
+      <workItem from="1577291676782" duration="117000" />
+      <workItem from="1577291814707" duration="129000" />
+      <workItem from="1577291959587" duration="57000" />
+      <workItem from="1577292054941" duration="1666000" />
+      <workItem from="1577721173944" duration="3642000" />
+      <workItem from="1577865989175" duration="2208000" />
+      <workItem from="1578037578319" duration="2486000" />
+      <workItem from="1578318631133" duration="267000" />
+      <workItem from="1579500662363" duration="64000" />
+      <workItem from="1579500800152" duration="211000" />
+      <workItem from="1579503675703" duration="1000" />
+      <workItem from="1579503703859" duration="19000" />
+      <workItem from="1579503760204" duration="4000" />
+      <workItem from="1581738253252" duration="33000" />
+      <workItem from="1582078086359" duration="30000" />
+      <workItem from="1582896088176" duration="53000" />
+      <workItem from="1583633896306" duration="2412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="107" key="#Notifications" timestamp="1583633901491">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="326" y="107" key="#Notifications/0.0.1463.874@0.0.1463.874" timestamp="1583633901491" />
+    <state x="360" y="95" width="814" height="674" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583634874309">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="360" y="95" width="814" height="674" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.874@0.0.1463.874" timestamp="1583634874309" />
+    <state width="1344" height="278" key="GridCell.Tab.0.bottom" timestamp="1583636312185">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1344" height="278" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1583636312185" />
+    <state width="1344" height="278" key="GridCell.Tab.0.center" timestamp="1583636312185">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1344" height="278" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1583636312185" />
+    <state width="1344" height="278" key="GridCell.Tab.0.left" timestamp="1583636312185">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1344" height="278" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1583636312185" />
+    <state width="1344" height="278" key="GridCell.Tab.0.right" timestamp="1583636312185">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1344" height="278" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1583636312185" />
+    <state width="1344" height="278" key="GridCell.Tab.1.bottom" timestamp="1583636312185">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1344" height="278" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1583636312185" />
+    <state width="1344" height="278" key="GridCell.Tab.1.center" timestamp="1583636312185">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1344" height="278" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1583636312185" />
+    <state width="1344" height="278" key="GridCell.Tab.1.left" timestamp="1583636312185">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1344" height="278" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1583636312185" />
+    <state width="1344" height="278" key="GridCell.Tab.1.right" timestamp="1583636312185">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1344" height="278" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1583636312185" />
+    <state x="236" y="92" key="SettingsEditor" timestamp="1583636299778">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="236" y="92" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1583636299778" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pyqt$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1583635624106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1583634694680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+2020-03-08 10:31:35,362 - D:\code\python\pyqt\venv\lib\site-packages\urllib3\connectionpool.py[line:225] - DEBUG: Starting new HTTP connection (1): www.mafengwo.cn:80
+2020-03-08 10:31:36,272 - D:\code\python\pyqt\venv\lib\site-packages\urllib3\connectionpool.py[line:437] - DEBUG: http://www.mafengwo.cn:80 "GET /jd/10065/gonglve.html HTTP/1.1" 200 None
+2020-03-08 10:31:36,505 - D:\code\python\pyqt\venv\lib\site-packages\urllib3\connectionpool.py[line:225] - DEBUG: Starting new HTTP connection (1): js.mafengwo.net:80
+2020-03-08 10:31:36,569 - D:\code\python\pyqt\venv\lib\site-packages\urllib3\connectionpool.py[line:437] - DEBUG: http://js.mafengwo.net:80 "GET /js/hotel/sign/index.js?1552035728 HTTP/1.1" 200 None

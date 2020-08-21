@@ -1,0 +1,56 @@
+# -*- coding: utf-8 -*-
+import scrapy
+
+
+class MafengwoSpider(scrapy.Spider):
+    name = 'mafengwo'
+    allowed_domains = ['mafengwo.cn/']
+    start_urls = ['https://m.mafengwo.cn/jd/10065/gonglve.html?sExt=gonglve']
+    #start_urls = ['http://www.mafengwo.cn/jd/10065/gonglve.html']
+    def parse(self, response):
+        selectors = response.xpath('//div[@class="hd"]/text()')
+        for i in selectors:
+            print(i)
+            topName=i.get()
+            items={
+                '景点名': topName,
+            }
+            print(items)
+        print("====!")
+        for i in items:
+            print(i)
+        #selectors1 = response.xpath('//*[@id="poi_list"]/section/div[1]/a/div[2]/dl/dd/p[1]/span[1]/text()')
+        selectors1=response.xpath('//span[@class="num"][1]/text()')
+        #print(selectors1)
+        for selector in selectors1:
+            print(selector)
+            topNameComment = selector.get()
+            items2={
+                '评论数': topNameComment
+            }
+            print(items2)
+        # selectorss=response.xpath('//div[@class="hd"]/text()'|'//span[@class="num"][1]/text()')
+        # for i in selectorss:
+        #     print(i)
+        #print(items+items2)
+        # for i in topName:
+        #     dict={
+        #         '景点名': topName,
+        #         #'热度': topNameComment
+        #     }
+        #
+        #
+        # for i in dict:
+        #     print(i)
+       # print(items2)
+        print("=========")
+        # for select in selectors:
+        #     #print(select)
+        #     #name = select.xpath('//h3[1]/a[1]')
+        #     num = select.xpath('//div[@class="hd"]/text()')
+        #     # num = response.xpath('.a[2]').get()
+        #     print(num)
+
+            #print(name, num)
+
+        # //span[@class="rev-total"]/em
